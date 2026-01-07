@@ -15,8 +15,8 @@
 ## 🧩 About Me
 🎓 **B.Tech CSE (2027)**  
 💻 Fullstack Java Developer skilled in **Spring Boot**, **REST APIs**, **Frontend Technologies**  
-🛠️ Exploring **Backend Architecture**, **and building projects on the Cloud.** 
-🔁 Practicing **DSA in C++ & Java**  
+🛠️ Exploring **Backend Architecture** and building projects on the **Cloud** <br/>
+🔁 Practicing **DSA in C++**
 💬 Ask me about **Java, Spring Boot, Fullstack Development, REST APIs**
 
 </div>
