@@ -70,7 +70,7 @@
 
 ---
 
-## 📂 Projects
+##  Projects
 
 <div align="center" style="margin-bottom:30px;">
 
