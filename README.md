@@ -72,40 +72,38 @@
 
 ## 📂 Projects
 
-<div align="center" style="margin-bottom:20px; display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
+<div align="center" style="margin-bottom:30px;">
 
-<!-- Project Card -->
-<div style="background:#1a1a2e; padding:20px; border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.3); width:320px; text-align:left; transition: transform 0.2s;">
-  <h3 style="margin-bottom:10px;">🚀 <b>OrderCapture</b></h3>
-  <p style="font-size:14px; margin-bottom:10px;">Fullstack Project with frontend deployed on Vercel.</p>
-  
+<!-- Modern Project Card -->
+<div style="background:#0f0f1a; padding:20px; border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.5); width:100%; max-width:700px; text-align:center; transition: transform 0.2s;">
+
+  <h2 style="margin-bottom:10px;">🚀 <b>OrderCapture</b></h2>
+  <p style="margin-bottom:15px; font-size:15px; color:#ccc;">Fullstack Project with frontend deployed on Vercel.</p>
+
   <!-- Tech Stack Badges -->
-  <div style="display:flex; flex-wrap:wrap; gap:5px; margin-bottom:10px;">
-    <img src="https://img.shields.io/badge/Java-ED6A5A?style=for-the-badge&logo=java&logoColor=white&labelColor=FF7B72&rounded=true" height="20" />
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=4CAF50&rounded=true" height="20" />
-    <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=4CAF50&rounded=true" height="20" />
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=333333&rounded=true" height="20" />
-    <img src="https://img.shields.io/badge/SpringDataJPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=4CAF50&rounded=true" height="20" />
-    <img src="https://img.shields.io/badge/Razorpay-0A9DAB?style=for-the-badge&logo=razorpay&logoColor=white&labelColor=0A9DAB&rounded=true" height="20" />
-    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=008899&rounded=true" height="20" />
-    <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&rounded=true" height="20" />
-    <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=38BDF8&rounded=true" height="20" />
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC&rounded=true" height="20" />
-    <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white&labelColor=5A29E4&rounded=true" height="20" />
-    <img src="https://img.shields.io/badge/shadcn-FF6F61?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6F61&rounded=true" height="20" />
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:6px; margin-bottom:15px;">
+    <img src="https://img.shields.io/badge/Java-ED6A5A?style=for-the-badge&logo=java&logoColor=white&rounded=true" height="22" />
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&rounded=true" height="22" />
+    <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=spring&logoColor=white&rounded=true" height="22" />
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&rounded=true" height="22" />
+    <img src="https://img.shields.io/badge/SpringDataJPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white&rounded=true" height="22" />
+    <img src="https://img.shields.io/badge/Razorpay-0A9DAB?style=for-the-badge&logo=razorpay&logoColor=white&rounded=true" height="22" />
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&rounded=true" height="22" />
+    <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black&rounded=true" height="22" />
+    <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white&rounded=true" height="22" />
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&rounded=true" height="22" />
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white&rounded=true" height="22" />
+    <img src="https://img.shields.io/badge/shadcn-FF6F61?style=for-the-badge&logo=vercel&logoColor=white&rounded=true" height="22" />
   </div>
-  
-  <!-- Links -->
-  <div style="display:flex; gap:10px;">
-    <a href="https://gs-frontend-two.vercel.app/" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Live-View-brightgreen?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2E8B57&rounded=true" height="25" />
-    </a>
-    <a href="https://github.com/username/project1" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=333333&rounded=true" height="25" />
-    </a>
-  </div>
-</div>
 
+  <!-- Buttons -->
+  <div style="display:flex; justify-content:center; gap:10px;">
+    <a href="https://gs-frontend-two.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live-View-brightgreen?style=for-the-badge&logo=vercel&logoColor=white&rounded=true" height="28" />
+    </a>
+  </div>
+
+</div>
 </div>
 
 
