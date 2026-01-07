@@ -78,7 +78,7 @@
 <div style="background:#0f0f1a; padding:20px; border-radius:15px; box-shadow:0 6px 20px rgba(0,0,0,0.5); width:100%; max-width:700px; text-align:center; transition: transform 0.2s;">
 
   <h2 style="margin-bottom:10px;">🚀 <b>OrderCapture</b></h2>
-  <p style="margin-bottom:15px; font-size:15px; color:#ccc;">Fullstack Project with frontend deployed on Vercel.</p>
+  <p style="margin-bottom:15px; font-size:15px; color:#ccc;">Fullstack Project Techstacks.</p>
 
   <!-- Tech Stack Badges -->
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:6px; margin-bottom:15px;">
@@ -101,10 +101,14 @@
     <a href="https://gs-frontend-two.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Live-View-brightgreen?style=for-the-badge&logo=vercel&logoColor=white&rounded=true" height="28" />
     </a>
+    <a href="https://github.com/username/project1" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white&rounded=true" height="28" />
+    </a>
   </div>
 
 </div>
 </div>
+
 
 
 ---
