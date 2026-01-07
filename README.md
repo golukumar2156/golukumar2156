@@ -83,7 +83,6 @@
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:6px; margin-bottom:15px;">
     <img src="https://img.shields.io/badge/Java-ED6A5A?style=for-the-badge&logo=java&logoColor=white&rounded=true" height="22" />
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&rounded=true" height="22" />
-    <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=spring&logoColor=white&rounded=true" height="22" />
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&rounded=true" height="22" />
     <img src="https://img.shields.io/badge/SpringDataJPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white&rounded=true" height="22" />
     <img src="https://img.shields.io/badge/Razorpay-0A9DAB?style=for-the-badge&logo=razorpay&logoColor=white&rounded=true" height="22" />
