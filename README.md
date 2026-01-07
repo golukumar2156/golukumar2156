@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Fullstack+Java+Developer+💻;Spring+Boot+%7C+Hibernate+%7C+REST+APIs+⚙️;Frontend+%7C+Backend+Enthusiast+🌐;Learning+Everyday+🚀;Let's+Build+Something+Awesome!+🤝" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Fullstack+Java+Developer+💻;Spring+Boot+%7C+REST+APIs+⚙️;Frontend+%7C+Backend+Enthusiast+🌐;Learning+Everyday+🚀;Let's+Build+Something+Awesome!+🤝" alt="Typing SVG" />
 </p>
 
 ---
@@ -38,7 +38,6 @@
 
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring Data JPA-FF6F61?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Spring Security & JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST API-FF9F1C?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -47,7 +46,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Spring Tool Suite](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
