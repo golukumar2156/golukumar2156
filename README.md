@@ -10,11 +10,11 @@
 
 ---
 
-<div align="center" style="background: #0f0f0f; padding: 20px; border-radius: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5); margin-bottom: 20px;">
-  
+<div align="center" style="background:#1a1a2e; padding:25px; border-radius:20px; box-shadow:0 5px 15px rgba(0,0,0,0.4); margin-bottom:25px;">
+
 ## 🧩 About Me
 🎓 **B.Tech CSE (2027)**  
-💻 Fullstack Java Developer with expertise in **Spring Boot**, **REST APIs**, **Frontend Technologies**  
+💻 Fullstack Java Developer skilled in **Spring Boot**, **REST APIs**, **Frontend Technologies**  
 🛠️ Exploring **Backend Architecture**, **Microservices**, **Cloud Deployment**  
 🔁 Practicing **DSA in C++ & Java**  
 💬 Ask me about **Java, Spring Boot, Fullstack Development, REST APIs**
@@ -25,31 +25,39 @@
 
 ## 💡 Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
+<div align="center" style="margin-bottom:20px;">
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED6A5A?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F4BF4F?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-F26419?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Java-ED6A5A?style=for-the-badge&logo=java&logoColor=white&labelColor=FF7B72&rounded=true" height="30" />
+<img src="https://img.shields.io/badge/JavaScript-F4BF4F?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FFD35F&rounded=true" height="30" />
+<img src="https://img.shields.io/badge/HTML5-F26419?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6F42&rounded=true" height="30" />
+<img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white&labelColor=1E40FF&rounded=true" height="30" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0072C6&rounded=true" height="30" />
+<img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white&labelColor=333333&rounded=true" height="30" />
+<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white&labelColor=1C5AA6&rounded=true" height="30" />
+
+</div>
+
+<div align="center" style="margin-bottom:20px;">
 
 ### Backend
-![Spring Boot](https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security & JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST API-FF9F1C?style=for-the-badge&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=4CAF50&rounded=true" height="30" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=333333&rounded=true" height="30" />
+<img src="https://img.shields.io/badge/REST API-FF9F1C?style=for-the-badge&logo=postman&logoColor=white&labelColor=FFB84C&rounded=true" height="30" />
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=008899&rounded=true" height="30" />
+
+</div>
+
+<div align="center" style="margin-bottom:20px;">
 
 ### Tools & IDEs
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Spring Tool Suite](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=222222&rounded=true" height="30" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=4B3E97&rounded=true" height="30" />
+<img src="https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=4CAF50&rounded=true" height="30" />
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1E90FF&rounded=true" height="30" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&rounded=true" height="30" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF8A50&rounded=true" height="30" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1CA1F2&rounded=true" height="30" />
 
 </div>
 
@@ -57,15 +65,15 @@
 
 ## 📫 Connect With Me
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
+<div align="center" style="margin-bottom:20px;">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golukumar2555)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golusiddharth88@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adl02)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/golukumar2156)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/golu_kumar2155)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gsTechnical-s3x)
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&rounded=true" height="25" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&rounded=true" height="25" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&rounded=true" height="25" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&rounded=true" height="25" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116&rounded=true" height="25" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46&rounded=true" height="25" />
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&rounded=true" height="25" />
 
 </div>
 
