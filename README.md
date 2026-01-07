@@ -15,7 +15,7 @@
 ## 🧩 About Me
 🎓 **B.Tech CSE (2027)**  
 💻 Fullstack Java Developer skilled in **Spring Boot**, **REST APIs**, **Frontend Technologies**  
-🛠️ Exploring **Backend Architecture** and building projects on the **Cloud** <br/>
+🛠️ Exploring **Backend Architecture** and building projects on the **Cloud.** <br/>
 🔁 Practicing **DSA in C++**<br/>
 💬 Ask me about **Java, Spring Boot, Fullstack Development, REST APIs**
 
@@ -100,9 +100,6 @@
   <div style="display:flex; justify-content:center; gap:10px;">
     <a href="https://gs-frontend-two.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Live-View-brightgreen?style=for-the-badge&logo=vercel&logoColor=white&rounded=true" height="28" />
-    </a>
-    <a href="https://github.com/username/project1" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white&rounded=true" height="28" />
     </a>
   </div>
 
