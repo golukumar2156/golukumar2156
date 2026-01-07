@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/Java-ED6A5A?style=for-the-badge&logo=java&logoColor=white&labelColor=FF7B72&rounded=true" height="30" />
 <img src="https://img.shields.io/badge/JavaScript-F4BF4F?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FFD35F&rounded=true" height="30" />
 <img src="https://img.shields.io/badge/HTML5-F26419?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6F42&rounded=true" height="30" />
+<img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white&labelColor=1E40FF&rounded=true" height="30" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0072C6&rounded=true" height="30" />
 <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white&labelColor=333333&rounded=true" height="30" />
 <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white&labelColor=1C5AA6&rounded=true" height="30" />
@@ -57,6 +58,21 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&rounded=true" height="30" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF8A50&rounded=true" height="30" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1CA1F2&rounded=true" height="30" />
+
+</div>
+
+---
+
+## 📂 Projects
+
+<div align="center" style="margin-bottom:20px;">
+
+### Featured Projects
+
+- [**Project Name 1**](https://github.com/username/project1) - Fullstack web app with Spring Boot & React.
+- [**Project Name 2**](https://github.com/username/project2) - REST API service with JWT authentication.
+- [**Project Name 3**](https://github.com/username/project3) - Frontend app using HTML, CSS, JavaScript.
+- [**Project Name 4**](https://github.com/username/project4) - Dockerized microservices project.
 
 </div>
 
