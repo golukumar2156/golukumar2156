@@ -17,7 +17,7 @@
 💻 Java Developer skilled in **Spring Boot**, **REST APIs**, **Frontend Technologies**  
 🛠️ Exploring **Backend Architecture** and building projects on the **Cloud.** <br/>
 🔁 Practicing **DSA in C++**<br/>
-💬 Ask me about **Java, Spring Boot, Fullstack Development, REST APIs**
+💬 Ask me about **Java, Spring Boot, Backend Development, REST APIs**
 
 </div>
 
