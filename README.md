@@ -84,7 +84,6 @@
     <img src="https://img.shields.io/badge/Java-ED6A5A?style=for-the-badge&logo=java&logoColor=white&rounded=true" height="22" />
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&rounded=true" height="22" />
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&rounded=true" height="22" />
-    <img src="https://img.shields.io/badge/SpringDataJPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white&rounded=true" height="22" />
     <img src="https://img.shields.io/badge/Razorpay-0A9DAB?style=for-the-badge&logo=razorpay&logoColor=white&rounded=true" height="22" />
     <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&rounded=true" height="22" />
     <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black&rounded=true" height="22" />
